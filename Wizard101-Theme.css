@@ -9,6 +9,7 @@
 */
 
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
+@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
 
 /*
   To make editing this theme easier I recommend using Notepad++
@@ -201,11 +202,10 @@
   --reaction-emoji-border-color: 1px solid transparent;
   --reaction-emoji-hover-background-color: rgba(255, 255, 255, 0.1);
   --reaction-emoji-hover-border-color: rgba(255, 255, 255, 0.2);
-}
 
-@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
-
-:root {
+  /*
+    Radial-Status
+  */
   --rs-small-spacing: 2px; /* Gap between avatar and status for members list/dms | MUST end in px */
   --rs-medium-spacing: 3px; /* Gap between avatar and status for User popout | MUST end in px */
   --rs-large-spacing: 4px; /* Gap between avatar and status for User profiles | MUST end in px */
